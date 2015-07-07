@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>jp.gr.java_conf.mitchibu.lib</groupId>
+  <artifactId>intervalservice</artifactId>
+  <version>1.0.1</version>
+  <versioning>
+    <versions>
+      <version>1.0.1</version>
+    </versions>
+    <lastUpdated>20150707020043</lastUpdated>
+  </versioning>
+</metadata>
